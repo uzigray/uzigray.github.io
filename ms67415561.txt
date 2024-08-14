@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "uzigray.github.io",
+  "Id": "995af3f6-5932-4052-9f95-4b556352fc4c"
+}
